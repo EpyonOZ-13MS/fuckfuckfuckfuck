@@ -208,14 +208,7 @@ MOTDTabs_Array = [
 ];
 
 RandomQuotes_Array = [
-'I like the Pope dancing', 'No quotes today', 'O rly?', 
-'People have the right to be stupid. You abuse that privilege', 'Don\'t play stupid with me', 
-'Roses are red violets are blue, God made me pretty, what happened to you?', 
-'Please don\'t interrupt me while I\'m ignoring you', 
-'Are you always this stupid, or are you making a special effort today?', 
-'I like you. You remind me of when I was young and stupid.', 'Go and buy me a beer', 
-'The door of this channel is always open for you... so feel free to leave!', 
-];
+'bush did 9/11 faggot'
 
 AskAnswers_Array = [
 '100% for sure', 'definitely yes', 'yes', 'probably', 'not any chance', 'definitely no', 
@@ -227,10 +220,10 @@ Memes_Array = [
 ];
 
 UserMarks_Array = {
-<font color="red">Epyon</font>
 'ZimnyLech':	'<img src="https://dl.dropboxusercontent.com/s/89gv8fvyr49vnev/kobato-icon-small.jpg" height="25">', 
 'calzoneman':	'♠',
 }
+<font color="red">Epyon</font>
 
 SoundFilters_Array = {
 'habemus':	'https://dl.dropboxusercontent.com/s/3w1jahgffowjltz/hp.ogg',
