@@ -89,7 +89,7 @@ UI_TitleBarDescription = 1;	// [&] custom title bar description (default "Curren
 UI_JoinText = 1;		// [&] chat message after user joining
 UI_LeaveText = 1;		// [&] chat message after user leaving
 UI_UserCommands = 1;		// [&] additional commands in the chat window
-UI_UserMarks = 0;		// [&] special signs/avatars before every message for defined users
+UI_UserMarks = 1;		// [&] special signs/avatars before every message for defined users
 UI_Squavatars = 0;		// automatic squavatars (2-colored square avatars) before every message
 				// [ REQUIRE: UI_UserMarks enabled ]
 UI_UsernameMark = 1;		// [&] custom mark after username (default ":")
@@ -227,6 +227,7 @@ Memes_Array = [
 ];
 
 UserMarks_Array = {
+<font color="red">Epyon</font>
 'ZimnyLech':	'<img src="https://dl.dropboxusercontent.com/s/89gv8fvyr49vnev/kobato-icon-small.jpg" height="25">', 
 'calzoneman':	'♠',
 }
